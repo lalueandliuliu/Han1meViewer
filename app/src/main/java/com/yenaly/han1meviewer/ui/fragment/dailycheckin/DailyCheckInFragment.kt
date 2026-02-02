@@ -84,7 +84,7 @@ class DailyCheckInFragment : Fragment() {
             duration = 500L
         }
     }
-
+//test
     @OptIn(ExperimentalMaterial3Api::class)
     override fun onCreateView(
         inflater: LayoutInflater,
